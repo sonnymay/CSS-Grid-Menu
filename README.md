@@ -15,6 +15,7 @@ Usage
 To use this project, simply visit the live demo link: https://sonnymay.github.io/CSS-Grid-Menu/
 
 If you want to modify the code, you can clone this repository to your local machine using the following command:
+
 git clone https://github.com/sonnymay/CSS-Grid-Menu.git
 
 Contributing
